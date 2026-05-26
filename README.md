@@ -163,9 +163,3 @@ Adjust these values only if you understand how they affect layout and physics.
 ## Acknowledgments
 
 Gameplay is inspired by the original **Flappy Bird** by Dong Nguyen. Sprites and audio in `gallery/` are used for this educational/desktop project implementation.
-
----
-
-## License
-
-If you share or modify this project, ensure you have the right to use and distribute all assets in `gallery/`. Add your own license file here if you publish the repository publicly.
