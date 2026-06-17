@@ -1,5 +1,3 @@
-Note : This repository is an individual project repository I developed locally in October 2023 using python.
-
 # Flappy Bird Game
 
 A desktop recreation of the classic Flappy Bird arcade game, built with Python and [Pygame](https://www.pygame.org/). Guide the bird through gaps in moving pipes, earn points, and try to beat your best run.
